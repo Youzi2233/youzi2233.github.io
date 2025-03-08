@@ -37,6 +37,11 @@ export default defineConfig({
         collapsed: false,
         items: [{ text: "Java基础个人笔记", link: "/Java/Java基础个人笔记" }],
       },
+      {
+        text: "数据结构与算法",
+        collapsed: false,
+        items: [{ text: "二叉堆-最小堆&最大堆", link: "/数据结构与算法/二叉堆-最小堆&最大堆" }],
+      },
     ],
     socialLinks: [{ icon: "github", link: "https://github.com/Youzi2233" }],
     footer: {
