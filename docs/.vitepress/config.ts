@@ -40,7 +40,10 @@ export default defineConfig({
       {
         text: "数据结构与算法",
         collapsed: false,
-        items: [{ text: "二叉堆-最小堆&最大堆", link: "/数据结构与算法/二叉堆-最小堆&最大堆" }],
+        items: [
+          { text: "二叉堆-最小堆&最大堆", link: "/数据结构与算法/二叉堆-最小堆&最大堆" },
+          { text: "动态规划", link: "/数据结构与算法/动态规划" },
+        ],
       },
     ],
     socialLinks: [{ icon: "github", link: "https://github.com/Youzi2233" }],
