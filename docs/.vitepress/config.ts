@@ -45,6 +45,14 @@ export default defineConfig({
           { text: "动态规划", link: "/数据结构与算法/动态规划" },
         ],
       },
+      {
+        text: "杂物笔记",
+        collapsed: false,
+        items: [
+          { text: "记录第一个PR被合并", link: "/杂物笔记/记录第一个PR被合并" },
+          { text: "前端随手记", link: "/杂物笔记/前端随手记" },
+        ],
+      }
     ],
     socialLinks: [{ icon: "github", link: "https://github.com/Youzi2233" }],
     footer: {
