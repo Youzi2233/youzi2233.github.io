@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as t,ae as e}from"./chunks/framework.tuuL-SzM.js";const g=JSON.parse('{"title":"前端随手记","description":"","frontmatter":{},"headers":[],"relativePath":"杂物笔记/前端随手记.md","filePath":"杂物笔记/前端随手记.md"}'),p={name:"杂物笔记/前端随手记.md"};function n(l,s,h,o,r,k){return t(),a("div",null,s[0]||(s[0]=[e("",6)]))}const c=i(p,[["render",n]]);export{g as __pageData,c as default};
